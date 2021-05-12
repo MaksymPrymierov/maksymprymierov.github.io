@@ -25,6 +25,17 @@ to support Orange Pi platform in a way that is:
 	webkitallowfullscreen="true"
 ></iframe>
 
+<iframe
+	name="GloDroid Linaro Conference presentation"
+	src="https://static.linaro.org/connect/lvc21/presentations/lvc21-319.pdf"
+	frameborder="0"
+	width="620"
+	height="367"
+	allowfullscreen="true"
+	mozallowfullscreen="true"
+	webkitallowfullscreen="true"
+></iframe>
+
 ---
 
 ## Fetch and Build
